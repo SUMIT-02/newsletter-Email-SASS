@@ -1,9 +1,9 @@
-import React from 'react'
+import Home from '@/modules/home/home'
 
 function page() {
   return (
     <div>
-      page
+      <Home/>
     </div>
   )
 }
